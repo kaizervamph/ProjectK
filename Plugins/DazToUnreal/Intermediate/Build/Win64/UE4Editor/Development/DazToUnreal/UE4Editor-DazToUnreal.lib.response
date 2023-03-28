@@ -6,9 +6,9 @@
 /NAME:"UE4Editor-DazToUnreal.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"E:\Xordel\BurdelKing\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"E:\Xordel\BurdelKing\Plugins\DazToUnreal\Intermediate\Build\Win64\UE4Editor\Development\DazToUnreal\Module.DazToUnreal.cpp.obj"
-"E:\Xordel\BurdelKing\Plugins\DazToUnreal\Intermediate\Build\Win64\UE4Editor\Development\DazToUnreal\Module.DazToUnreal.gen.cpp.obj"
-"E:\Xordel\BurdelKing\Plugins\DazToUnreal\Intermediate\Build\Win64\UE4Editor\Development\DazToUnreal\Default.rc2.res"
-/OUT:"E:\Xordel\BurdelKing\Plugins\DazToUnreal\Intermediate\Build\Win64\UE4Editor\Development\DazToUnreal\UE4Editor-DazToUnreal.lib"
+"E:\UE4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"E:\Repositories\ProjectK\Plugins\DazToUnreal\Intermediate\Build\Win64\UE4Editor\Development\DazToUnreal\Module.DazToUnreal.cpp.obj"
+"E:\Repositories\ProjectK\Plugins\DazToUnreal\Intermediate\Build\Win64\UE4Editor\Development\DazToUnreal\Module.DazToUnreal.gen.cpp.obj"
+"E:\UE4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"E:\Repositories\ProjectK\Plugins\DazToUnreal\Intermediate\Build\Win64\UE4Editor\Development\DazToUnreal\UE4Editor-DazToUnreal.lib"
 /INCLUDE:IMPLEMENT_MODULE_DazToUnreal

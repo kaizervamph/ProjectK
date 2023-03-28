@@ -31,7 +31,7 @@
 /wd4244
 /wd4838
 /I .
-/I E:\Xordel\BurdelKing\Plugins\DazToUnreal\Source\DazToUnreal\Private
+/I E:\Repositories\ProjectK\Plugins\DazToUnreal\Source\DazToUnreal\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph
 /I Editor
 /I Editor\AnimGraph\Classes
@@ -240,13 +240,13 @@
 /I ..\Plugins\Editor\EditorScriptingUtilities\Source
 /I ..\Plugins\Editor\EditorScriptingUtilities\Source\EditorScriptingUtilities\Public
 /I Developer\SkeletalMeshUtilitiesCommon\Public
-/I E:\Xordel\BurdelKing\Plugins\DazToUnreal\Intermediate\Build\Win64\UE4Editor\Inc\DazToUnrealRuntime
-/I E:\Xordel\BurdelKing\Plugins\DazToUnreal\Source
-/I E:\Xordel\BurdelKing\Plugins\DazToUnreal\Source\DazToUnrealRuntime\Public
+/I E:\Repositories\ProjectK\Plugins\DazToUnreal\Intermediate\Build\Win64\UE4Editor\Inc\DazToUnrealRuntime
+/I E:\Repositories\ProjectK\Plugins\DazToUnreal\Source
+/I E:\Repositories\ProjectK\Plugins\DazToUnreal\Source\DazToUnrealRuntime\Public
 /I ThirdParty\MikkTSpace\inc
 /I ThirdParty\OpenSubdiv\3.2.0\opensubdiv
-/I E:\Xordel\BurdelKing\Plugins\DazToUnreal\Intermediate\Build\Win64\UE4Editor\Inc\DazToUnreal
-/I E:\Xordel\BurdelKing\Plugins\DazToUnreal\Source\DazToUnreal\Public
+/I E:\Repositories\ProjectK\Plugins\DazToUnreal\Intermediate\Build\Win64\UE4Editor\Inc\DazToUnreal
+/I E:\Repositories\ProjectK\Plugins\DazToUnreal\Source\DazToUnreal\Public
 /I Runtime\Networking\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
@@ -279,12 +279,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\winrt"
-/FI"E:\Xordel\BurdelKing\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Yu"E:\Xordel\BurdelKing\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Fp"E:\Xordel\BurdelKing\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-"E:\Xordel\BurdelKing\Plugins\DazToUnreal\Intermediate\Build\Win64\UE4Editor\Development\DazToUnreal\Module.DazToUnreal.cpp"
-/FI"E:\Xordel\BurdelKing\Plugins\DazToUnreal\Intermediate\Build\Win64\UE4Editor\Development\DazToUnreal\Definitions.DazToUnreal.h"
-/Fo"E:\Xordel\BurdelKing\Plugins\DazToUnreal\Intermediate\Build\Win64\UE4Editor\Development\DazToUnreal\Module.DazToUnreal.cpp.obj"
+/FI"E:\UE4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Yu"E:\UE4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"E:\UE4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+"E:\Repositories\ProjectK\Plugins\DazToUnreal\Intermediate\Build\Win64\UE4Editor\Development\DazToUnreal\Module.DazToUnreal.cpp"
+/FI"E:\Repositories\ProjectK\Plugins\DazToUnreal\Intermediate\Build\Win64\UE4Editor\Development\DazToUnreal\Definitions.DazToUnreal.h"
+/Fo"E:\Repositories\ProjectK\Plugins\DazToUnreal\Intermediate\Build\Win64\UE4Editor\Development\DazToUnreal\Module.DazToUnreal.cpp.obj"
 /TP
 /GR-
 /W4

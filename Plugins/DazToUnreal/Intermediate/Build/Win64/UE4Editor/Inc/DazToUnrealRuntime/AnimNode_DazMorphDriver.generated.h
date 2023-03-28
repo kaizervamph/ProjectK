@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define DAZTOUNREALRUNTIME_AnimNode_DazMorphDriver_generated_h
 
-#define BurdelKing_Plugins_DazToUnreal_Source_DazToUnrealRuntime_Public_AnimNode_DazMorphDriver_h_34_GENERATED_BODY \
+#define ProjectK_Plugins_DazToUnreal_Source_DazToUnrealRuntime_Public_AnimNode_DazMorphDriver_h_34_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAnimNode_DazMorphDriver_Statics; \
 	static class UScriptStruct* StaticStruct(); \
 	typedef FAnimNode_SkeletalControlBase Super;
@@ -22,7 +22,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> DAZTOUNREALRUNTIME_API UScriptStruct* StaticStruct<struct FAnimNode_DazMorphDriver>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID BurdelKing_Plugins_DazToUnreal_Source_DazToUnrealRuntime_Public_AnimNode_DazMorphDriver_h
+#define CURRENT_FILE_ID ProjectK_Plugins_DazToUnreal_Source_DazToUnrealRuntime_Public_AnimNode_DazMorphDriver_h
 
 
 #define FOREACH_ENUM_EDAZMORPHDRIVERROTATIONORDER(op) \
